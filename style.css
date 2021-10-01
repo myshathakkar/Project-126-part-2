@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+.heading{
+    background-color: orange;
+    box-shadow: 7px 7px 7px orangered;
+    border: 5px solid orangered;
+    margin-top: 0px;
+   padding-top: 2px;
+}
+.tytle{
+    background-color: orangered;
+    color: white;
+    font-style: unset;
+    box-shadow: 7px 7px 7px orangered;
+    width: 20%;
+    text-shadow: 3px 3px 3px white;
+}
+.note{
+    background-color: orangered;
+    color: white;
+    font-style:unset;
+    box-shadow: 7px 7px 7px orangered;
+    width: 90%;  
+    margin-bottom: 15px;
+}
+.footer{
+    width:100%;
+    bottom: 0;
+    background-color: orangered;
+    color: white;
+    position: fixed;
+    text-align: center;
+    line-height: 3;
+}
+canvas{
+    border:5px solid orangered;
+box-shadow:7px 7px 7px orangered; 
+margin-top: 85px;
+}
+#song{
+    background-color: orangered;
+    color: white;
+
+}
